@@ -1,0 +1,92 @@
+[
+	{
+		"id":"hills_day",
+		"nameRU":"Холмы день",
+		"nameEN":"Hills day"
+	},
+	{
+		"id":"hills_night",
+		"nameRU":"Холмы ночь",
+		"nameEN":"Hills night"
+	},
+	{
+		"id":"mountains_day",
+		"nameRU":"Горы день",
+		"nameEN":"Mountains day"
+	},
+	{
+		"id":"mountains_night",
+		"nameRU":"Горы ночь",
+		"nameEN":"Mountains night"
+	},
+	{
+		"id":"rio_day",
+		"nameRU":"Рио день",
+		"nameEN":"Rio day"
+	},
+	{
+		"id":"rio_night",
+		"nameRU":"Рио ночь",
+		"nameEN":"Rio night"
+	},
+	{
+		"id":"urban_day",
+		"nameRU":"Город день",
+		"nameEN":"Urban day"
+	},
+	{
+		"id":"urban_night",
+		"nameRU":"Город ночь",
+		"nameEN":"Urban night"
+	},
+	{
+		"id":"remaster_day",
+		"nameRU":"Ремастер день",
+		"nameEN":"Remaster day"
+	},
+	{
+		"id":"remaster_evening",
+		"nameRU":"Ремастер вечер",
+		"nameEN":"Remaster evening"
+	},
+	{
+		"id":"remaster_autumn",
+		"nameRU":"Ремастер осень",
+		"nameEN":"Remaster autumn"
+	},
+	{
+		"id":"iran_day",
+		"nameRU":"Иран",
+		"nameEN":"Iran"
+	},
+	{
+		"id":"desert_day",
+		"nameRU":"Пустыня день",
+		"nameEN":"Desert day"
+	},
+	{
+		"id":"cologne_day",
+		"nameRU":"Кёльн день",
+		"nameEN":"Cologne day"
+	},
+	{
+		"id":"space_day",
+		"nameRU":"Космос",
+		"nameEN":"Space"
+	},
+	{
+		"id":"new_year",
+		"nameRU":"Новый Год",
+		"nameEN":"New Year"
+	},
+	{
+		"id":"halloween",
+		"nameRU":"Хеллоуин",
+		"nameEN":"Halloween"
+	},
+	{
+		"id":"winter_day",
+		"nameRU":"Зима день",
+		"nameEN":"Winter day"
+	}
+]

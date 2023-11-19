@@ -1,0 +1,1240 @@
+[
+	{
+		"id":"gauss_standard_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":16760576, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16760576, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"gauss_standard_shell",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":350, "color":16760576, "intensity":0.5, "time":0 }
+        ]
+	},
+	{
+		"id":"gauss_standard_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":900, "color":16760576, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":300, "attenuationEnd":900, "color":16760576, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"gauss_standard_power_shot",
+		"light":
+		[
+			{ "attenuationBegin":1000, "attenuationEnd":3500, "color":16760576, "intensity":1.5, "time":0 }
+        ]
+	},
+	{
+		"id":"gauss_standard_power_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":16760576, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":3000, "attenuationEnd":6000, "color":16760576, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"gauss_standard_lightning",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":16760576, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16760576, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"gauss_violent_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":12676079, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":12676079, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"gauss_violent_shell",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":350, "color":12676079, "intensity":0.5, "time":0 }
+        ]
+	},
+	{
+		"id":"gauss_violent_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":900, "color":12676079, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":300, "attenuationEnd":900, "color":12676079, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"gauss_violent_power_shot",
+		"light":
+		[
+			{ "attenuationBegin":1000, "attenuationEnd":3500, "color":12676079, "intensity":1.5, "time":0 }
+        ]
+	},
+	{
+		"id":"gauss_violent_power_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":12676079, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":3000, "attenuationEnd":6000, "color":12676079, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"gauss_violent_lightning",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":12676079, "intensity":1.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":12676079, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_standard_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":16741656, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16741656, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_standard_shell",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":350, "color":16741656, "intensity":0.5, "time":0 }
+        ]
+	},
+	{
+		"id":"ricochet_standard_ricochet",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":400, "color":16741656, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":200, "color":16741656, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_standard_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":16741656, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":16741656, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_gold_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":16775936, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16775936, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_gold_shell",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":350, "color":16775936, "intensity":0.5, "time":0 }
+        ]
+	},
+	{
+		"id":"ricochet_gold_ricochet",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":400, "color":16775936, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":200, "color":16775936, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_gold_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":16775936, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":16775936, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_smoke_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":14277081, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":14277081, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_smoke_shell",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":350, "color":14277081, "intensity":0.5, "time":0 }
+        ]
+	},
+	{
+		"id":"ricochet_smoke_ricochet",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":400, "color":14277081, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":200, "color":14277081, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_smoke_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":14277081, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":14277081, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_crimson_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":16711680, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16711680, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_crimson_shell",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":350, "color":16711680, "intensity":0.5, "time":0 }
+        ]
+	},
+	{
+		"id":"ricochet_crimson_ricochet",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":400, "color":16711680, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":200, "color":16711680, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_crimson_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":16711680, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":16711680, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_magma_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":16744448, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16744448, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_magma_shell",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":350, "color":16744448, "intensity":0.5, "time":0 }
+        ]
+	},
+	{
+		"id":"ricochet_magma_ricochet",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":400, "color":16744448, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":200, "color":16744448, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_magma_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":16744448, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":16744448, "intensity":0, "time":600 }
+        ]
+	},	
+	{
+		"id":"ricochet_toxic_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":3604224, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":3604224, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_toxic_shell",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":350, "color":3604224, "intensity":0.5, "time":0 }
+        ]
+	},
+	{
+		"id":"ricochet_toxic_ricochet",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":400, "color":3604224, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":200, "color":3604224, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_toxic_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":3604224, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":3604224, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_violet_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":13320191, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":13320191, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_violet_shell",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":350, "color":13320191, "intensity":0.5, "time":0 }
+        ]
+	},
+	{
+		"id":"ricochet_violet_ricochet",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":400, "color":13320191, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":200, "color":13320191, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_violet_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":13320191, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":13320191, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_aqua_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":65408, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":65408, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_aqua_shell",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":350, "color":65408, "intensity":0.5, "time":0 }
+        ]
+	},
+	{
+		"id":"ricochet_aqua_ricochet",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":400, "color":65408, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":200, "color":65408, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_aqua_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":65408, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":65408, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_electric_shot",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":500, "color":42751, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":42751, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_electric_shell",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":350, "color":42751, "intensity":0.5, "time":0 }
+        ]
+	},
+	{
+		"id":"ricochet_electric_ricochet",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":400, "color":42751, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":200, "color":42751, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"ricochet_electric_hit",
+		"light":
+		[
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":42751, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":300, "attenuationEnd":600, "color":42751, "intensity":0, "time":600 }
+        ]
+	},
+	{
+		"id":"smoky_standard_shot",
+		"light":
+		[
+			{ "attenuationBegin":190, "attenuationEnd":450, "color":16571766, "intensity":1.9, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16571766, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"smoky_standard_hit",
+		"light":
+		[
+			{ "attenuationBegin":170, "attenuationEnd":300, "color":16760576, "intensity":1.7, "time":0 },
+			{ "attenuationBegin":100, "attenuationEnd":300, "color":16760576, "intensity":0, "time":400 }
+        ]
+	},
+	{
+		"id":"smoky_standard_shell",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":350, "color":16571766, "intensity":0.5, "time":0 }
+        ]
+	},
+	{
+		"id":"tank_destroyed",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":13411640, "intensity":0, "time":0 },
+			{ "attenuationBegin":500, "attenuationEnd":1500, "color":13411640, "intensity":1.2, "time":100 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":13411640, "intensity":0, "time":1200 }
+        ]
+	},
+	{
+		"id":"magnum_standard_shot",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16741656, "intensity":1, "time":0 },
+			{ "attenuationBegin":500, "attenuationEnd":1000, "color":16741656, "intensity":1, "time":200 },
+			{ "attenuationBegin":250, "attenuationEnd":1500, "color":16741656, "intensity":0, "time":500 }
+        ]
+	},
+	{
+		"id":"magnum_standard_hit",
+		"light":
+		[
+			{ "attenuationBegin":500, "attenuationEnd":2000, "color":16741656, "intensity":1, "time":0 },
+			{ "attenuationBegin":500, "attenuationEnd":2000, "color":16741656, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_standard_charge",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":200, "color":5883129, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":200, "attenuationEnd":800, "color":5883129, "intensity":0.3, "time":600 }
+        ]
+	},
+	{
+		"id":"railgun_standard_shot",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":600, "color":5883129, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":5883129, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_standard_hit",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":5883129, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":5883129, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_standard_rail",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":500, "color":5883129, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":5883129, "intensity":0, "time":1800 }
+        ]
+	},
+	
+	{
+		"id":"railgun_gold_charge",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":200, "color":16772670, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":200, "attenuationEnd":800, "color":16772670, "intensity":0.3, "time":600 }
+        ]
+	},
+	{
+		"id":"railgun_gold_shot",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":600, "color":16772670, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16772670, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_gold_hit",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":16772670, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16772670, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_gold_rail",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":500, "color":16772670, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16772670, "intensity":0, "time":1800 }
+        ]
+	},
+	{
+		"id":"railgun_blue_charge",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":200, "color":6056702, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":200, "attenuationEnd":800, "color":6056702, "intensity":0.3, "time":600 }
+        ]
+	},
+	{
+		"id":"railgun_blue_shot",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":600, "color":6056702, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":6056702, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_blue_hit",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":6056702, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":6056702, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_blue_rail",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":500, "color":6056702, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":6056702, "intensity":0, "time":1800 }
+        ]
+	},
+	{
+		"id":"railgun_green_charge",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":200, "color":130911, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":200, "attenuationEnd":800, "color":130911, "intensity":0.3, "time":600 }
+        ]
+	},
+	{
+		"id":"railgun_green_shot",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":600, "color":130911, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":130911, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_green_hit",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":130911, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":130911, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_green_rail",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":500, "color":130911, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":130911, "intensity":0, "time":1800 }
+        ]
+	},
+	{
+		"id":"railgun_blood_charge",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":200, "color":8393730, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":200, "attenuationEnd":800, "color":8393730, "intensity":0.3, "time":600 }
+        ]
+	},
+	{
+		"id":"railgun_blood_shot",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":600, "color":8393730, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":8393730, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_blood_hit",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":8393730, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":8393730, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_blood_rail",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":500, "color":8393730, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":8393730, "intensity":0, "time":1800 }
+        ]
+	},
+	{
+		"id":"railgun_snow_charge",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":200, "color":15793150, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":200, "attenuationEnd":800, "color":15793150, "intensity":0.3, "time":600 }
+        ]
+	},
+	{
+		"id":"railgun_snow_shot",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":600, "color":15793150, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":15793150, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_snow_hit",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":15793150, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":15793150, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_snow_rail",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":500, "color":15793150, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":15793150, "intensity":0, "time":1800 }
+        ]
+	},
+	{
+		"id":"railgun_violet_charge",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":200, "color":16343039, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":200, "attenuationEnd":800, "color":16343039, "intensity":0.3, "time":600 }
+        ]
+	},
+	{
+		"id":"railgun_violet_shot",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":600, "color":16343039, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16343039, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_violet_hit",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":16343039, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16343039, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_violet_rail",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":500, "color":16343039, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16343039, "intensity":0, "time":1800 }
+        ]
+	},
+	{
+		"id":"railgun_darkness_charge",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":200, "color":16777215, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":200, "attenuationEnd":800, "color":16777215, "intensity":0.3, "time":600 }
+        ]
+	},
+	{
+		"id":"railgun_darkness_shot",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":600, "color":16777215, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16777215, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_darkness_hit",
+		"light":
+		[
+			{ "attenuationBegin":200, "attenuationEnd":600, "color":16777215, "intensity":0.7, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16777215, "intensity":0, "time":300 }
+        ]
+	},
+	{
+		"id":"railgun_darkness_rail",
+		"light":
+		[
+			{ "attenuationBegin":100, "attenuationEnd":500, "color":16777215, "intensity":0.5, "time":0 },
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16777215, "intensity":0, "time":1800 }
+        ]
+	},
+	{
+		"id":"flamethrower_standard_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16746496, "intensity":0, "time":0 },
+			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16746496, "intensity":1, "time":200 }
+        ]
+	},
+	{
+		"id":"flamethrower_standard_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16746496, "intensity":1, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16746496, "intensity":1, "time":100 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16746496, "intensity":1, "time":200 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16746496, "intensity":1, "time":300 },
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16746496, "intensity":1, "time":400 }
+        ]
+	},
+	{
+		"id":"flamethrower_crimson_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16523554, "intensity":0, "time":0 },
+			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16523554, "intensity":1, "time":200 }
+        ]
+	},
+	{
+		"id":"flamethrower_crimson_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16523554, "intensity":1, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16523554, "intensity":1, "time":100 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16523554, "intensity":1, "time":200 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16523554, "intensity":1, "time":300 },
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16523554, "intensity":1, "time":400 }
+        ]
+	},
+	{
+		"id":"flamethrower_magma_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16722462, "intensity":0, "time":0 },
+			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16722462, "intensity":1, "time":200 }
+        ]
+	},
+	{
+		"id":"flamethrower_magma_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16722462, "intensity":1, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16722462, "intensity":1, "time":100 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16722462, "intensity":1, "time":200 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16722462, "intensity":1, "time":300 },
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16722462, "intensity":1, "time":400 }
+        ]
+	},
+	{
+		"id":"flamethrower_black_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16777215, "intensity":0, "time":0 },
+			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16777215, "intensity":1, "time":200 }
+        ]
+	},
+	{
+		"id":"flamethrower_black_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16777215, "intensity":1, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16777215, "intensity":1, "time":100 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16777215, "intensity":1, "time":200 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16777215, "intensity":1, "time":300 },
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16777215, "intensity":1, "time":400 }
+        ]
+	},
+	{
+		"id":"flamethrower_pink_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16484062, "intensity":0, "time":0 },
+			{ "attenuationBegin":100, "attenuationEnd":1000, "color":16484062, "intensity":1, "time":200 }
+        ]
+	},
+	{
+		"id":"flamethrower_pink_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16484062, "intensity":1, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16484062, "intensity":1, "time":100 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16484062, "intensity":1, "time":200 },
+			{ "attenuationBegin":150, "attenuationEnd":800, "color":16484062, "intensity":1, "time":300 },
+			{ "attenuationBegin":50, "attenuationEnd":1000, "color":16484062, "intensity":1, "time":400 }
+        ]
+	},
+	{
+		"id":"freeze_standard_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":65535, "intensity":0, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":65535, "intensity":0.3, "time":200 }
+        ]
+	},
+	{
+		"id":"freeze_standard_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":65535, "intensity":0.3, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":65535, "intensity":0.3, "time":200 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":65535, "intensity":0.3, "time":400 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":65535, "intensity":0.3, "time":600 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":65535, "intensity":0.3, "time":800 }
+        ]
+	},
+	{
+		"id":"freeze_darkmoon_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":1017, "intensity":0, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":1017, "intensity":0.3, "time":200 }
+        ]
+	},
+	{
+		"id":"freeze_darkmoon_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":1017, "intensity":0.3, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":1017, "intensity":0.3, "time":200 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":1017, "intensity":0.3, "time":400 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":1017, "intensity":0.3, "time":600 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":1017, "intensity":0.3, "time":800 }
+        ]
+	},
+	{
+		"id":"freeze_toxic_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":393052, "intensity":0, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":393052, "intensity":0.3, "time":200 }
+        ]
+	},
+	{
+		"id":"freeze_toxic_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":393052, "intensity":0.3, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":393052, "intensity":0.3, "time":200 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":393052, "intensity":0.3, "time":400 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":393052, "intensity":0.3, "time":600 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":393052, "intensity":0.3, "time":800 }
+        ]
+	},
+	{
+		"id":"freeze_cold_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":8365823, "intensity":0, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":8365823, "intensity":0.3, "time":200 }
+        ]
+	},
+	{
+		"id":"freeze_cold_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":8365823, "intensity":0.3, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":8365823, "intensity":0.3, "time":200 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":8365823, "intensity":0.3, "time":400 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":8365823, "intensity":0.3, "time":600 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":8365823, "intensity":0.3, "time":800 }
+        ]
+	},
+	{
+		"id":"freeze_snow_start",
+		"light":
+		[
+			{ "attenuationBegin":1, "attenuationEnd":2, "color":16777215, "intensity":0, "time":0 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":16777215, "intensity":0.3, "time":200 }
+        ]
+	},
+	{
+		"id":"freeze_snow_loop",
+		"light":
+		[
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":16777215, "intensity":0.3, "time":0 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":16777215, "intensity":0.3, "time":200 },
+			{ "attenuationBegin":100, "attenuationEnd":1500, "color":16777215, "intensity":0.3, "time":400 },
+			{ "attenuationBegin":150, "attenuationEnd":1000, "color":16777215, "intensity":0.3, "time":600 },
+			{ "attenuationBegin":50, "attenuationEnd":1500, "color":16777215, "intensity":0.3, "time":800 }
+        ]
+	},
+	{
+		"id":"twins_default_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":65280, "intensity": 0.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":65280, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"twins_default_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color": 65280, "intensity": 0.5, "time": 0 }
+        ]
+	},
+	{
+		"id":"twins_default_hit",
+		"light":
+		[
+			   { "attenuationBegin": 200, "attenuationEnd": 400, "color": 65280, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 1, "attenuationEnd": 2, "color": 65280, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"twins_sky_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":64764, "intensity": 0.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":64764, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"twins_sky_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color":64764, "intensity": 0.5, "time": 0 }
+        ]
+	},
+	{
+		"id":"twins_sky_hit",
+		"light":
+		[
+			   { "attenuationBegin": 200, "attenuationEnd": 400, "color":64764, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 1, "attenuationEnd": 2, "color":64764, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"twins_gold_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":15651077, "intensity": 0.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":15651077, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"twins_gold_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color":15651077, "intensity": 0.5, "time": 0 }
+        ]
+	},
+	{
+		"id":"twins_gold_hit",
+		"light":
+		[
+			   { "attenuationBegin": 200, "attenuationEnd": 400, "color":15651077, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 1, "attenuationEnd": 2, "color":15651077, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"twins_darkmoon_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":1077203, "intensity": 0.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":1077203, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"twins_darkmoon_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color":1077203, "intensity": 0.5, "time": 0 }
+        ]
+	},
+	{
+		"id":"twins_darkmoon_hit",
+		"light":
+		[
+			   { "attenuationBegin": 200, "attenuationEnd": 400, "color":1077203, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 1, "attenuationEnd": 2, "color":1077203, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"twins_violet_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":15734015, "intensity": 0.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":15734015, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"twins_violet_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color":15734015, "intensity": 0.5, "time": 0 }
+        ]
+	},
+	{
+		"id":"twins_violet_hit",
+		"light":
+		[
+			   { "attenuationBegin": 200, "attenuationEnd": 400, "color":15734015, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 1, "attenuationEnd": 2, "color":15734015, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"twins_coral_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":16724515, "intensity": 0.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":16724515, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"twins_coral_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color":16724515, "intensity": 0.5, "time": 0 }
+        ]
+	},
+	{
+		"id":"twins_coral_hit",
+		"light":
+		[
+			   { "attenuationBegin": 200, "attenuationEnd": 400, "color":16724515, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 1, "attenuationEnd": 2, "color":16724515, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"twins_electric_shot",
+		"light":
+		[
+			{	"attenuationBegin":300,	"attenuationEnd":500, "color":35049, "intensity": 0.3, "time": 0 },
+			{	"attenuationBegin":1,	"attenuationEnd":2, "color":35049, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"twins_electric_shell",
+		"light":
+		[
+			{ "attenuationBegin": 100, "attenuationEnd": 300, "color":35049, "intensity": 0.5, "time": 0 }
+        ]
+	},
+	{
+		"id":"twins_electric_hit",
+		"light":
+		[
+			   { "attenuationBegin": 200, "attenuationEnd": 400, "color":35049, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 1, "attenuationEnd": 2, "color":35049, "intensity": 0, "time": 300 }
+        ]
+	},
+	
+	
+	{
+		"id":"isida_default_enemy_start",
+		"light":
+		[
+            { "attenuationBegin": 1, "attenuationEnd": 2, "color":16664675, "intensity": 0, "time": 0 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":16664675, "intensity": 0.1, "time": 200 }
+        ]
+	},
+	{
+		"id":"isida_default_enemy_loop",
+		"light":
+		[
+			{ "attenuationBegin": 250, "attenuationEnd": 700, "color":16664675, "intensity": 0.3, "time": 0 },
+            { "attenuationBegin": 100, "attenuationEnd": 600, "color":16664675, "intensity": 0.2, "time": 200 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":16664675, "intensity": 0.3, "time": 400 }
+        ]
+	},
+	{
+		"id":"isida_default_enemy_beam",
+		"light":
+		[
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":16664675, "intensity": 0.2, "time": 0 },
+           { "attenuationBegin": 100, "attenuationEnd": 600, "color":16664675, "intensity": 0.15, "time": 200 },
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":16664675, "intensity": 0.2, "time": 400 }
+        ]
+	},
+	{
+		"id":"isida_default_start",
+		"light":
+		[
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":6421436, "intensity": 0, "time": 0 },
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.2, "time": 200 }
+        ]
+	},
+	{
+		"id":"isida_default_loop",
+		"light":
+		[
+              { "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.3, "time": 0 },
+              { "attenuationBegin": 100, "attenuationEnd": 600, "color":6421436, "intensity": 0.2, "time": 200 },
+              { "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.3, "time": 400 }
+        ]
+	},
+	{
+		"id":"isida_sun_enemy_start",
+		"light":
+		[
+            { "attenuationBegin": 1, "attenuationEnd": 2, "color":16776704, "intensity": 0, "time": 0 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":16776704, "intensity": 0.1, "time": 200 }
+        ]
+	},
+	{
+		"id":"isida_sun_enemy_loop",
+		"light":
+		[
+			{ "attenuationBegin": 250, "attenuationEnd": 700, "color":16776704, "intensity": 0.3, "time": 0 },
+            { "attenuationBegin": 100, "attenuationEnd": 600, "color":16776704, "intensity": 0.2, "time": 200 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":16776704, "intensity": 0.3, "time": 400 }
+        ]
+	},
+	{
+		"id":"isida_sun_enemy_beam",
+		"light":
+		[
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":16776704, "intensity": 0.2, "time": 0 },
+           { "attenuationBegin": 100, "attenuationEnd": 600, "color":16776704, "intensity": 0.15, "time": 200 },
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":16776704, "intensity": 0.2, "time": 400 }
+        ]
+	},
+	{
+		"id":"isida_fire_enemy_start",
+		"light":
+		[
+            { "attenuationBegin": 1, "attenuationEnd": 2, "color":16700476, "intensity": 0, "time": 0 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":16700476, "intensity": 0.1, "time": 200 }
+        ]
+	},
+	{
+		"id":"isida_fire_enemy_loop",
+		"light":
+		[
+			{ "attenuationBegin": 250, "attenuationEnd": 700, "color":16700476, "intensity": 0.3, "time": 0 },
+            { "attenuationBegin": 100, "attenuationEnd": 600, "color":16700476, "intensity": 0.2, "time": 200 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":16700476, "intensity": 0.3, "time": 400 }
+        ]
+	},
+	{
+		"id":"isida_fire_enemy_beam",
+		"light":
+		[
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":16700476, "intensity": 0.2, "time": 0 },
+           { "attenuationBegin": 100, "attenuationEnd": 600, "color":16700476, "intensity": 0.15, "time": 200 },
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":16700476, "intensity": 0.2, "time": 400 }
+        ]
+	},
+	{
+		"id":"isida_heal_enemy_start",
+		"light":
+		[
+            { "attenuationBegin": 1, "attenuationEnd": 2, "color":6421436, "intensity": 0, "time": 0 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.1, "time": 200 }
+        ]
+	},
+	{
+		"id":"isida_heal_enemy_loop",
+		"light":
+		[
+			{ "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.3, "time": 0 },
+            { "attenuationBegin": 100, "attenuationEnd": 600, "color":6421436, "intensity": 0.2, "time": 200 },
+            { "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.3, "time": 400 }
+        ]
+	},
+	{
+		"id":"isida_heal_enemy_beam",
+		"light":
+		[
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.2, "time": 0 },
+           { "attenuationBegin": 100, "attenuationEnd": 600, "color":6421436, "intensity": 0.15, "time": 200 },
+           { "attenuationBegin": 250, "attenuationEnd": 700, "color":6421436, "intensity": 0.2, "time": 400 }
+        ]
+	},
+	{
+		"id":"hammer_default_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":15501081, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":15501081, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"hammer_aqua_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":4063212, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":4063212, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"hammer_magma_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":15622660, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":15622660, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"hammer_void_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":15413759, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":15413759, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"hammer_toxic_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":65280, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":65280, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"hammer_eclipse_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":16448250, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":16448250, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"hammer_blue_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":231, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":231, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"hammer_blood_shot",
+		"light":
+		[
+           { "attenuationBegin": 50, "attenuationEnd": 700, "color":16646144, "intensity": 1, "time": 0 },
+           { "attenuationBegin": 1, "attenuationEnd": 2, "color":16646144, "intensity": 0, "time": 300 }
+        ]
+	},
+	{
+		"id":"thunder_default_shot",
+		"light":
+		[
+           { "attenuationBegin":190, "attenuationEnd":500, "color":16741656, "intensity":1.9, "time":0 },
+           { "attenuationBegin":1, "attenuationEnd":2, "color":16741656, "intensity":0, "time":250 }
+        ]
+	},
+	{
+		"id":"thunder_default_hit",
+		"light":
+		[
+           { "attenuationBegin":200, "attenuationEnd":800, "color":16741656, "intensity":1.8, "time":0 },
+           { "attenuationBegin":200, "attenuationEnd":800, "color":16741656, "intensity":0, "time":700 }
+        ]
+	},
+	{
+		"id":"thunder_default_shell",
+		"light":
+		[
+           { "attenuationBegin":100, "attenuationEnd":350, "color":16741656, "intensity":0.5, "time": 0 }
+        ]
+	}
+]
